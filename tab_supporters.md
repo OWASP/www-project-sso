@@ -3,7 +3,7 @@ title: Supporters
 layout:  null
 tab: true
 order: 2
-tags: owasp sso supporters
+tags: sso
 ---
 
 ## Project Supporters

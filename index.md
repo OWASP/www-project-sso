@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Single Sign-On
-tags: owasp sso overview
+tags: sso
 level: 2
 type: tool
 pitch: Centralize your decentral logins with the safest and most privacy-oriented Single Sign-On experience. Keep the data where it belongs - in your hands!
@@ -9,7 +9,7 @@ pitch: Centralize your decentral logins with the safest and most privacy-oriente
 
 <!-- rebuild -->
 
-[![OWASP Incubator Project](https://img.shields.io/badge/owasp-incubator%20project-fe7d37.svg](/projects/#div-main)
+[![OWASP Incubator Project](https://img.shields.io/badge/owasp-incubator%20project-fe7d37.svg)](/projects/#div-main)
 [![GitHub release](https://img.shields.io/github/v/release/OWASP/SSO_Project.svg)](https://github.com/OWASP/SSO_Project/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/OWASP/SSO_Project.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/OWASP/SSO_Project/stargazers)
 

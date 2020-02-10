@@ -14,7 +14,7 @@
 ### Installation
 
 * [From Source](https://github.com/OWASP/SSO_Project)
-* Docker Image - Coming
+* Docker Image - Upcoming
 
 ### Sources
 
@@ -22,9 +22,9 @@
 
 ### Documentation
 
-* Online Demo - Coming
+* Online Demo - Upcoming
 <!-- * [Introduction Slides](http://bkimminich.github.io/juice-shop) -->
 
 ### Community
 
-* Slack - Coming
+* Slack - Upcoming
