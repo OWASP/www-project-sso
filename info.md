@@ -1,9 +1,7 @@
 ### SSO Information
-* [Flagship Project](#)
+* [Incubator Project](#)
 * [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+* [Defender](#)
 
 ### Downloads or Social Links
 * [Download](#)
