@@ -14,7 +14,7 @@ tags: sso
 > or the green "Donate"-button while on any tab of the OWASP SSO
 > project page!
 
-Code contributions count as sponsorship - [see details](https://github.com/DefectDojo/django-DefectDojo/blob/master/SPONSORING.md).
+> Code contributions count as sponsorship - [see details](https://github.com/DefectDojo/django-DefectDojo/blob/master/SPONSORING.md).
 
 ### Top Supporters
 
