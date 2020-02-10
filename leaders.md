@@ -1,2 +1,3 @@
 ### Leaders
-* [Nicolas Giese](mailto:nicolas.giese@web.de)
+
+* [@JamesCullum](https://mailhide.io/e/Wno7k)

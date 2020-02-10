@@ -1,15 +1,30 @@
-### SSO Information
-* [Incubator Project](#)
-* [Tool Project](#)
-* [Defender](#)
+### Project Information
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* <i class="fas fa-egg" style="font-size: 1.3em; color:#233e81;"></i>
+  <span style="font-size: 1.3em;">Incubator Project</span>
 
-### Code Repository
-* [repo](#)
+#### Classification
 
-### Change Log
-* [changes](#)
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
+#### Audience
+
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
+
+### Installation
+
+* [From Source](https://github.com/OWASP/SSO_Project)
+* Docker Image - Coming
+
+### Sources
+
+* [GitHub](https://github.com/OWASP/SSO_Project)
+
+### Documentation
+
+* Online Demo - Coming
+<!-- * [Introduction Slides](http://bkimminich.github.io/juice-shop) -->
+
+### Community
+
+* Slack - Coming
