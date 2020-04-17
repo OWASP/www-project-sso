@@ -14,7 +14,7 @@
 ### Installation
 
 * [From Source](https://github.com/OWASP/SSO_Project)
-* Docker Image - Upcoming
+* [Docker Images](https://hub.docker.com/u/owaspsso)
 
 ### Sources
 
@@ -27,4 +27,4 @@
 
 ### Community
 
-* Slack - Upcoming
+* [Reddit](https://reddit.com/r/owasp_sso)
